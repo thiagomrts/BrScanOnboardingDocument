@@ -1,6 +1,5 @@
-BrScanOnBoarding
 
-## 
+## ![Screenshot from 2020-10-07 16-36-56](https://user-images.githubusercontent.com/57572762/95391571-468a9980-08c5-11eb-94dc-868300113e40.png) ![Screenshot from 2020-10-07 14-10-37](https://user-images.githubusercontent.com/57572762/95391622-5bffc380-08c5-11eb-8ef3-9465f00220d9.png) ![Screenshot from 2020-10-07 16-04-34](https://user-images.githubusercontent.com/57572762/95391673-776ace80-08c5-11eb-8297-cc2a382c0b04.png) ![Screenshot from 2020-10-07 16-04-09](https://user-images.githubusercontent.com/57572762/95391708-88b3db00-08c5-11eb-9b11-1b16f11f34a0.png)
 
 
 ## :computer: Projeto
@@ -21,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  - Yup (para validação do campo CPF)
  - React Image Picker (para a câmera)
  - React Icons
- - Para garantir o boqueio da aplicação, foi adicionado o modo "portrait" no arquivo AndroidManifest.xml
+ - Para garantir o boqueio da rotação, foi adicionado o modo "portrait" no arquivo AndroidManifest.xml
   
 OBSs:
 
