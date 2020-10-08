@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 OBSs:
 
  - Pequenas partes não foram feitas por falta de material, coisas pequenas como a imagem do documento na tela de câmera e etc.
- - Algums ícones cujos materiais não existiam, foram substituidos por ícones.
+ - Alguns ícones cujos materiais não existiam, foram substituidos por ícones.
  - A qualidade do layout no geral, é coerente ao tempo de desenvolvimento.
 
 ## :thinking:  Instruções de utilização:
