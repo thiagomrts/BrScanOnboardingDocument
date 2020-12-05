@@ -22,21 +22,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Aplicação para captura e registro de documentos específicos, BrScanOnboardingDocument.
 
-## :thinking:  Instruções de utilização:
+## :thinking: Como contribuir
 
- - Abra a pasta do projeto pelo terminal/cmd
- - Execute o comando yarn (pois a pasta node_modules não estará no repositório, é pesada)
- - Abra o emulador com o comando "adb emulator -avd 'nome do emulador'" ou conecte um dispositivo via usb e de permissão de DEBUG
- - Cheque a disponibilidade do emulador/dispositivo físico com o comando "adb devices"
- - Execute o comando "yarn android" para buildar o projeto no dispositivo
- - Caso o bundle não inicie, execute o comando "yarn start" e de reload no app pelo dispositivo
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: git checkout -b minha-feature;
+- Faça commit das suas alterações: git commit -m 'feat: Minha nova feature';
+- Faça push para a sua branch: git push origin minha-feature.
 
-## :rocket: O projeto foi testado nos seguintes ambientes:
-
- - Android Galaxy Gran Prime
- - Android Motorola Moto G7
- - Android Nexus 5X (emulador)
- - IOS genérico (emulador)
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 #
 Feito com :hearts: by thiagomrts :wave:
